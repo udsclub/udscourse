@@ -38,3 +38,7 @@
   * `jupyter notebook`
 
 Profit! You are ready to create/view Jupyter `.ipynb` notebooks :)
+
+P.s. for your convenience:
+ * install [Git](https://git-scm.com/download/win) for Windows or use pre-installed on other OS
+ * ```git clone https://github.com/udsclub/udscourse``` into suitable folder and stay up-to-date with regular content updates
