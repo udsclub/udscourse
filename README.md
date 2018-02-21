@@ -32,6 +32,7 @@
   * download and install proper version of GraphViz from [here](https://graphviz.gitlab.io/download/)
   * ```pip install -U pydot```
   * ```conda install nb_conda``` (to join it with jupyter notebooks)
+  * (optional) install `wordcloud` with ```pip install wordcloud``` or use [this solution](https://github.com/amueller/word_cloud/issues/134) for Windows OS
 * Check whether your environment is set up properly or not
   * `cd to-directory-containing-file-check_environment.py`
   * `python check_environment.py`
